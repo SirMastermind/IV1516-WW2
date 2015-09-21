@@ -8,4 +8,4 @@ Open the terminal inside this laboratory folder and enter:
 > python -m SimpleHTTPServer 8888
 
 Your visualization is here:
-http://localhost:8888/oscar1.html
+https://localhost:8888/oscar1.html
