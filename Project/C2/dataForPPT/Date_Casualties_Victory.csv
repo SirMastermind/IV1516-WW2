@@ -1,0 +1,87 @@
+MainBattle;Battle;StartDate ;EndDate;TotalDays;CasualtiesAllies;CasualtiesAxis;Location;Victory
+Battle of Britain;Battle of Britain;10/07/40;01/11/40;111;91964;4303;London;Allies
+Battle of Britain;The Hardest Day;18/08/40;19/08/40;1;29;159;London;Allies
+Battle of Britain;Battle of Britain Day;15/09/40;16/09/40;1;31;198;London;Allies
+Battle of France;Battle of France;10/05/40;26/06/40;46;163650;360000;;Axis
+Battle of France;Battle of Sedan;12/05/40;16/05/40;4;11000;1167;;Axis
+Battle of France;Battle of Arras;21/05/40;22/05/40;1;75;700;;Allies
+Battle of France;Siege of Calais;22/05/40;27/05/40;5;4000;800;;Axis
+Battle of France;Operation Paula;03/06/40;04/06/40;1;1160;26;;Allies
+Battle of France;Battle of Dunkirk;26/05/40;05/06/40;9;51000;30000;;Axis
+Battle of France;Battle of Saumur;18/06/40;21/06/40;3;126;300;;Axis
+The Blitz;The Blitz;07/11/40;21/05/41;194;173000;3363;;Allies
+Saar Offensive;Saar Offensive;07/11/39;17/11/39;10;185;666;;Axis
+Operation Weserübung;Operation Weserübung;09/04/40;11/06/40;62;6116;5636;;Axis
+Operation Weserübung;Norwegian Campaign;09/04/40;11/06/40;62;6602;5296;;Axis
+Operation Weserübung;Battles of Narvik;09/04/40;10/04/40;1;343;0;;Axis
+Battle of Belgium;Battle of Belgium;10/05/40;29/05/40;19;222443;61218;;Axis
+Battle of Belgium;Battle of Fort Eben-Emael;10/05/40;12/05/40;2;60;6;;Axis
+Battle of Belgium;Battle of Hannut;12/05/40;15/05/40;3;5397;140;;Axis
+Battle of Belgium;Battle of Gembloux;14/05/40;16/05/40;2;2000;1000;;Axis
+Operation Cerberus;Operation Cerberus;11/02/42;14/02/42;3;61;38;;Axis
+Operation Donnerkeil;Operation Donnerkeil;11/02/42;13/02/42;2;41;23;;Axis
+St Nazaire Raid;St Nazaire Raid;28/03/42;29/03/42;1;384;360;;Allies
+Battle of Dieppe;Battle of Dieppe;19/05/42;20/05/42;1;4373;591;;Axis
+Battle of Berlin (RAF);Battle of Berlin (RAF);18/11/43;31/05/44;192;2690;14000;;Axis
+Battle of the Netherlands;Battle of the Netherlands;10/05/40;15/05/40;5;11591;10382;;Axis
+Battle of the Netherlands;Battle of Rotterdam;10/05/40;15/05/40;5;185;123;;Axis
+Battle of the Netherlands;Battle of Zeeland;10/05/40;19/05/40;9;4082;397;;Axis
+Battle of the Netherlands;Battle of the Afsluitdijk;12/05/40;15/05/40;3;15;40;;Allies
+Battle of the Netherlands;Battle of the Grebbeberg;11/05/40;14/05/40;3;417;275;;Axis
+Battle of the Netherlands;Battle for The Hague;10/05/40;11/05/40;1;515;2745;;Allies
+Battle of the Netherlands;Battle of Maastricht;10/05/40;11/05/40;1;47;186;;Axis
+Battle for Brest;Battle for Brest;07/08/44;19/09/44;42;4000;43000;;Allies
+Operation Dragoon;Operation Dragoon;15/08/44;14/09/44;29;19800;157000;;Allies
+Allied advance from Paris to the Rhine;Allied advance from Paris to the Rhine;25/08/44;07/03/45;192;272448;182931;;Allies
+Western Allied invasion of Germany;Western Allied invasion of Germany;22/03/45;08/05/45;46;80595;400000;;Allies
+Western Allied invasion of Germany;Operation Veritable;08/02/45;12/03/45;34;15634;44239;;Allies
+Western Allied invasion of Germany;Operation Varsity;24/05/45;25/05/45;1;2700;3500;;Allies
+Western Allied invasion of Germany;Operation Undertone;15/03/45;25/03/45;10;12887;22000;;Allies
+Western Allied invasion of Germany;Battle of Kassel;01/04/45;05/04/45;4;124;5450;;Allies
+Western Allied invasion of Germany;Battle of Heilbronn;04/04/45;13/04/45;9;422;1600;;Allies
+Western Allied invasion of Germany;Ruhr Pocket;07/03/45;22/04/45;45;4136;300000;;Allies
+Battle of Groningen;Battle of Groningen;14/04/45;19/04/45;5;209;5342;;Allies
+Invasion of Poland;Invasion of Poland;01/09/39;07/10/39;36;199700;59000;;Axis
+Invasion of Poland;Battle of Mokra;01/09/39;02/09/39;1;500;800;;Allies
+Invasion of Poland;Battle of Mlawa;01/09/39;04/09/39;3;2700;5800;;Axis
+Invasion of Poland;Battle of Borowa Góra;02/09/39;07/09/39;5;663;1190;;Axis
+Invasion of Poland;Battle of Wizna;07/09/39;11/09/39;4;796;900;;Axis
+Invasion of Poland;Battle of the Bzura;09/09/39;20/09/39;11;222000;12000;;Axis
+Invasion of Poland;Siege of Warsaw;08/09/39;29/09/39;21;18000;14000;;Axis
+Invasion of Poland;Battle of Kock;02/09/39;06/09/39;4;17300;685;;Allies
+Clearing the Channel Coast;Operation Astonia;10/09/44;13/09/44;3;400;11900;;Allies
+Clearing the Channel Coast;Operation Wellhit;17/09/44;23/09/44;6;600;10000;;Allies
+Clearing the Channel Coast;Operation Undergo;22/09/44;02/10/44;10;260;9128;;Allies
+Operation Overlord;Operation Overlord;06/06/44;31/08/44;84;226386;530000;;Allies
+Operation Overlord;Invasion of Normandy;06/06/44;16/07/44;40;120000;113059;;Allies
+Operation Overlord;Battle for Caen;06/06/44;07/08/44;61;50539;500;;Allies
+Operation Overlord;Battle of Cherbourg;06/06/44;01/07/44;25;22000;38000;;Allies
+Operation Overlord;Battle of Bloody Gulch;13/06/44;14/06/44;1;105;132;;Allies
+Operation Overlord;Operation Epsom;26/06/44;01/07/44;5;4900;3500;;Allies
+Operation Overlord;Operation Windsor;04/07/44;06/07/44;2;377;270;;Allies
+Operation Overlord;Operation Charnwood;08/07/44;10/07/44;2;3817;2500;;Allies
+Operation Overlord;Second Battle of the Odon;15/07/44;18/07/44;3;3500;2000;;Allies
+Operation Overlord;Operation Goodwood;18/07/44;21/07/44;3;3474;3000;;Allies
+Operation Overlord;Operation Atlantic;18/07/44;21/07/44;3;1965;500;;Allies
+Operation Overlord;Battle of Verrières Ridge;19/07/44;26/07/44;7;2800;500;;Axis
+Operation Overlord;Operation Spring;25/07/44;28/07/44;3;4550;500;;Axis
+Operation Overlord;Operation Cobra;25/07/44;01/08/44;6;1800;2000;;Allies
+Operation Overlord;Operation Totalize;03/08/44;14/08/44;11;1256;3000;;Allies
+Operation Overlord;Operation Lüttich;07/08/44;14/08/44;7;3000;5000;;Allies
+Operation Overlord;Battle of Hill 262;19/08/44;22/08/44;3;351;1500;;Allies
+Operation Market Garden;Operation Market Garden;17/09/44;27/09/44;10;17200;13300;;Axis
+Operation Market Garden;Battle of Arnhem;17/09/44;27/09/44;10;8838;3300;;Axis
+Battle of Nancy;Battle of Nancy;05/09/44;16/09/44;11;2851;4081;;Allies
+Battle of Hürtgen Forest;Battle of Hürtgen Forest;19/09/44;17/12/44;88;33000;28000;;Axis
+Battle of Overloon;Battle of Overloon;30/09/44;19/10/44;19;1878;600;;Allies
+Battle of Aachen;Battle of Aachen;02/10/44;22/10/44;20;5000;10600;;Allies
+Battle of the Scheldt;Battle of the Scheldt;02/10/44;09/11/44;37;12873;53043;;Allies
+Operation Queen;Operation Queen;16/10/44;17/12/44;61;38500;38500;;Axis
+Battle of the Bulge;Battle of the Bulge;16/12/44;26/01/45;40;180408;125000;;Allies
+Battle of the Bulge;Battle of Kesternich;13/12/44;17/12/44;4;1500;750;;Axis
+Battle of the Bulge;Battle of Lanzerath Ridge;16/12/44;18/12/44;2;35;92;;Axis
+Battle of the Bulge;Losheim Gap;16/12/44;17/12/44;1;3750;500;;Axis
+Battle of the Bulge;Siege of Bastogne;20/12/44;28/12/44;8;22800;54000;;Allies
+Operation Nordwind;Operation Nordwind;31/12/44;26/01/45;26;31000;23000;;Allies
+Operation Blackcock;Operation Blackcock;14/01/45;28/01/45;14;1152;2000;;Allies
+Colmar Pocket;Colmar Pocket;20/01/45;10/02/45;20;11390;38500;;Allies
